@@ -1,0 +1,2 @@
+# sharesapp
+tradings for shares
